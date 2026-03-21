@@ -7,7 +7,7 @@ Minmini is currently being researched as an independent builder ecosystem with t
 - **Minmini League**: a recurring competitive hackathon league with rankings, grades, validation, and leaderboards.
 - **Minmini Lab**: an open project validation and beginner-guidance layer that helps builders improve projects anytime.
 
-This repository is still in the **R&D and planning phase**. It is not in active product development yet.
+This repository is still in the **R&D and planning phase**. It is not in active development yet.
 
 The earlier institution-hosted version of the plan is preserved in [Campus minmini.MD](Campus%20minmini.MD).
 
