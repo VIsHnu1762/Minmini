@@ -1,6 +1,6 @@
 # Minmini
 
-> Small sparks. Big innovations.
+> Small sparks. Big impact.
 
 Minmini is currently being researched as an independent builder ecosystem with two connected layers:
 
