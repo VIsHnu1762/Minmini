@@ -72,6 +72,33 @@ Sponsors care about:
 - lead quality (real builders, not only signups)
 - post-event reporting and ROI signals
 
+### 3.4 Host/Event Organizer Deep Dive (POV)
+From the host/event organizer perspective, MLH network affiliation is transformative but requires careful management.
+
+#### What Hosts Gain from MLH Affiliation
+- **Instant credibility**: "MLH official" dramatically increases student sign-ups and sponsor interest.
+- **Operational playbooks**: Pre-built event templates, checklists, and best practices reduce planning time by 40-50%.
+- **Sponsor network access**: Direct connections to 200+ sponsors vs. cold outreach from scratch.
+- **Risk mitigation**: Legal templates, code of conduct frameworks, and insurance guidance.
+- **Marketing amplification**: MLH's website and social channels promote affiliated events to 100K+ students.
+- **Community support**: Access to organizer forums, peer learning, and experienced mentor networks.
+
+#### What Hosts Must Solve or Accept
+- **Quality baseline commitment**: Not optional—must meet execution standards or risk de-affiliation.
+- **Revenue model pressures**: MLH typically takes no revenue share, but hosts must source local sponsor budgets.
+- **Organizer capacity**: Running an MLH-grade event requires 3-4 core organizers + 5-10 volunteers; small teams struggle.
+- **Standardization trade-offs**: Some playbooks feel rigid; local customization is limited to avoid diluting the brand.
+- **Repeat event dependency**: First success can raise expectations for year 2; declining quality damages host reputation more than a small independent event would.
+- **Sponsor influence**:True autonomy can be reduced if sponsors expect custom problem tracks or judging priorities.
+
+#### Host Success Metrics (What Hosts Track)
+- **Attendance**: growth year-over-year (goal: +20-30% each cycle).
+- **Sponsor retention**: % of year-1 sponsors returning + new sponsor acquisition.
+- **Project quality**: avg. GitHub stars/forks 30 days post-event, number of continued projects.
+- **Hiring outcomes**: internship/job offers to participants from sponsors.
+- **Organizer pipeline**: % of first-time participants becoming next year's organizers.
+- **Community health**: post-event engagement in forums, alumni mentorship, and follow-up events.
+
 ## 4. MLH Strengths (What They Are Strong At)
 
 ### 4.1 Ecosystem Trust
