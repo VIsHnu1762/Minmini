@@ -141,5 +141,120 @@ If Minmini wants MLH-like reputation, key actions are:
 - Track outcomes (projects shipped, internships, startups, open-source contributions).
 - Invest in post-event continuity (mentorship circles, build sprints, showcase days).
 
+## 6.1 How to Approach Users (Practical GTM Playbook)
+
+This section translates MLH-style ecosystem learnings into a practical user approach strategy for Minmini.
+
+### A. User Segments to Approach First
+
+Approach users in this order to build momentum:
+
+1. **Student organizers (supply side)**
+- Why first: They create events and bring participants.
+- Message: "Run a high-quality hackathon with less operational risk and better credibility."
+
+2. **Builders/participants (demand side)**
+- Why second: They fill events and create projects.
+- Message: "Build, get validated feedback, and grow your profile across recurring leagues."
+
+3. **Mentors and judges (quality layer)**
+- Why third: They improve fairness and learning quality.
+- Message: "Contribute to real student innovation with structured evaluation and impact visibility."
+
+4. **Sponsors/partners (monetization + scale)**
+- Why fourth: They sustain growth after product and community fit are visible.
+- Message: "Access verified builder talent and measurable engagement outcomes."
+
+### B. Core Positioning by User Type
+
+- **For organizers:** "Operating system for recurring hackathons."
+- **For participants:** "From beginner to league-ready builder."
+- **For mentors/judges:** "High-signal platform for meaningful technical impact."
+- **For sponsors:** "Trusted pipeline of active builders, not vanity signups."
+
+### C. Recommended User Acquisition Channels
+
+#### Organizers
+- Campus tech clubs and coding communities
+- Existing hackathon organizing committees
+- Alumni organizer referrals
+- LinkedIn outreach to student chapter leads
+
+#### Participants
+- Campus WhatsApp/Discord/Telegram groups
+- Department announcements and club demos
+- Creator-led workshops ("How to build your first hackathon-ready project")
+- Peer referral campaigns and team-formation drives
+
+#### Mentors/Judges
+- Alumni communities
+- Local developer communities
+- Faculty references
+- Open call with clear rubric and time commitment
+
+#### Sponsors
+- Local tech startups and dev-tools companies
+- Hiring-focused companies with intern pipelines
+- Companies already sponsoring student events
+- Warm intros through faculty/alumni network
+
+### D. Practical Outreach Sequence (Per Campus/Community)
+
+1. **Week 1: Organizer onboarding**
+- Identify 3-5 potential host partners.
+- Run one 30-minute demo + Q&A.
+- Secure one pilot host.
+
+2. **Week 2: Participant interest capture**
+- Launch waitlist form.
+- Run one intro session on "How Minmini helps beginners build real projects."
+- Start team-formation channels.
+
+3. **Week 3: Mentor and judge pipeline**
+- Confirm minimum 3-5 judges.
+- Confirm minimum 5-10 mentors (if event size requires).
+
+4. **Week 4: Conversion to registrations**
+- Announce edition details.
+- Share clear timeline, rules, and validation criteria.
+- Trigger reminder sequence (T-7, T-3, T-1 days).
+
+### E. Messaging Framework (Simple and Repeatable)
+
+Use this 3-line pitch in all outreach:
+
+1. **Problem:** "Students can code, but struggle to build complete projects."
+2. **Solution:** "Minmini Lab helps them improve projects; Minmini League helps them prove growth."
+3. **Outcome:** "Better projects, fair competition, and visible portfolios across recurring editions."
+
+### F. Conversion Funnel to Track
+
+Track these numbers for every campaign:
+
+- `Reached` -> people who saw communication
+- `Interested` -> waitlist/form responses
+- `Activated` -> joined onboarding/community
+- `Registered` -> completed registration
+- `Submitted` -> project submitted
+- `Retained` -> returned for next edition
+
+If `Activated -> Registered` is weak, simplify onboarding and reduce friction.
+If `Registered -> Submitted` is weak, improve mentor support and reminders.
+
+### G. Trust-Building Tactics (Critical)
+
+- Publish validation criteria before the event.
+- Keep rubric and grade bands transparent.
+- Use consent-first profile sharing (LinkedIn, alumni visibility).
+- Provide post-event improvement reports to all teams.
+- Share outcomes publicly (projects, internships, repeat participation).
+
+### H. What to Avoid in Early Stage
+
+- Do not start with sponsor-heavy expectations before participant quality is proven.
+- Do not over-automate judging before fairness processes are stable.
+- Do not promise all-in-one features in v1.
+- Do not make beginner onboarding complex.
+
 ## 7. Executive Summary
 MLH works as a networked hackathon infrastructure model, not only an event brand. Its power comes from trust, standards, and compounding community effects. From a user perspective, the biggest wins are event quality, learning, and career visibility. Its main limitations are event variability, sponsor pressure, and continuity gaps after hackathons. Any emerging brand (including Minmini) can replicate this impact by prioritizing trust, repeatability, measurable outcomes, and long-term community building.
